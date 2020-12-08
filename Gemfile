@@ -41,6 +41,9 @@ gem 'jquery-rails'
 gem 'imagesLoaded_rails'
 gem 'masonry-rails'
 
+gem 'react-rails'
+gem 'webpacker'
+
 gem 'activerecord-import'
 
 
