@@ -34,7 +34,7 @@ var fetchRunningCompetitionInfo = function() {
       complete: function() {
       }
     });
-});
+};
 
 if (
   document.readyState === "complete" ||
