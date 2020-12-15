@@ -1,3 +1,3 @@
 # README
 
-Annotation Competition
+Annotation Competition - with react
