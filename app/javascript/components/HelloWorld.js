@@ -1,9 +1,9 @@
 import React from "react"
 import PropTypes from "prop-types"
-const HelloWorld = function(prop) {
+const HelloWorld = function(props) {
   return (
     <React.Fragment>
-      Greeting: {this.props.greeting}
+      Greeting: {props.greeting}
     </React.Fragment>
   );
 };
