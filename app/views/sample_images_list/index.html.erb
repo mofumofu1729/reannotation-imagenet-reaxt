@@ -1,0 +1,11 @@
+<h1>SampleImagesList#index</h1>
+
+<div>
+  <ul>
+    <% @image_cluster.images.each do |image| %>
+    <li>
+      <%= image.url %>
+    </li>
+    <% end %>
+  </ul>
+</div>

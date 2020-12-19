@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'sample_images_list/index'
   root "images#images_tile"
 
   devise_for :users
